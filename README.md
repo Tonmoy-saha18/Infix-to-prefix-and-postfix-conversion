@@ -5,4 +5,3 @@ Infix Expression |	  Prefix Expression|	  Postfix Expression
 ---------------------------------------------------------------
 (A + B) * (C + D)	     * + A B + C D	        A B + C D + *
 A * B + C * D	         + * A B * C D	        A B * C D * +
----------------------------------------------------------------
